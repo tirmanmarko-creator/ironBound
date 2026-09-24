@@ -34,7 +34,7 @@ I am building this game as a personal project to practice Java, object-oriented 
 - [ ] Optional JavaFX interface
 ### Project Structure
 
-    src/
+'src/
 ├── main/java/[package]/
 │   ├── Main.java          # Entry point and game loop
 │   ├── characters/        # Player, Enemy, character classes
@@ -43,7 +43,7 @@ I am building this game as a personal project to practice Java, object-oriented 
 │   └── storage/           # Save / load logic
 └── test/java/[package]/   # JUnit tests
 
-pom.xml                    # Maven project config
+pom.xml                    # Maven project config'
 
 ## Tech Stack
 
