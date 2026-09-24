@@ -1,6 +1,6 @@
-# [Game Title]
+# ironBound
 
-A text-based RPG for the terminal, written in Java.
+A text-based CLI RPG, written in Java.
 
 > **Status:** Early development. This README will grow as the project does.
 
@@ -52,5 +52,5 @@ java -jar target/[artifact-name]-1.0.jar
 
 ## Author
 
-**[Your Name]**, student at [//kood](https://kood.tech)
-GitHub: [@your-username](https://github.com/your-username)
+**Marko Tirman**
+GitHub: (https://github.com/tirmanmarko-creator)
