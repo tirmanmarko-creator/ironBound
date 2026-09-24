@@ -32,6 +32,18 @@ I am building this game as a personal project to practice Java, object-oriented 
 - [ ] More enemies, rooms, and classes
 - [ ] Simple story or quests
 - [ ] Optional JavaFX interface
+### Project Structure
+
+    src/
+├── main/java/[package]/
+│   ├── Main.java          # Entry point and game loop
+│   ├── characters/        # Player, Enemy, character classes
+│   ├── items/              # Weapons, armor, potions
+│   ├── world/               # Rooms and map
+│   └── storage/           # Save / load logic
+└── test/java/[package]/   # JUnit tests
+
+pom.xml                    # Maven project config
 
 ## Tech Stack
 
